@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Change to the directory where your Java program is located
- #cd src/main/java/com/fdb/
+ cd src/main/java/com/fdb/FDBImporter
 
 # Set the Java classpath and the FDB file path
 CLASSPATH="../target/ImportFDBFile-0.0.1-SNAPSHOT.jar"
